@@ -58,13 +58,7 @@ const Footer = (props) => {
                             </p>
                         </div>
 
-                        <div className="">
-                            <h6>Thanks</h6>
-                            <p style={{ textAlign: 'justify' }}>
-                                Master Nguyen Huu Trung, Ho Chi Minh City
-                                University of Technology and Education.
-                            </p>
-                        </div>
+                        
                     </div>
 
                     <div className="col-xs-6 col-md-3">
@@ -112,7 +106,7 @@ const Footer = (props) => {
                 <div className="row">
                     <div className="col-md-8 col-sm-6 col-xs-12">
                         <p className="copyright-text">
-                            Copyright &copy; 2021 All Rights Reserved by{' '}
+                            Copyright &copy; 2025 All Rights Reserved by{' '}
                             <Link className="link-hover text-reset" to="#">
                                 GoodDeal
                             </Link>
@@ -127,7 +121,7 @@ const Footer = (props) => {
                                     className="facebook"
                                     to={{
                                         pathname:
-                                            'https://www.facebook.com/nghiadang666/',
+                                            'https://www.facebook.com/',
                                     }}
                                     target="_blank"
                                 >
@@ -144,7 +138,7 @@ const Footer = (props) => {
                                     className="github"
                                     to={{
                                         pathname:
-                                            'https://github.com/langde666',
+                                            'https://github.com/bodl49',
                                     }}
                                     target="_blank"
                                 >
